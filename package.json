@@ -1,0 +1,14 @@
+{
+  "name": "strapi-provider-upload-minio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "image-size": "^1.1.1",
+    "minio": "^8.0.2",
+    "sharp": "0.32.6",
+    "streamifier": "^0.1.1"
+  },
+  "packageManager": "yarn@3.5.0"
+}
